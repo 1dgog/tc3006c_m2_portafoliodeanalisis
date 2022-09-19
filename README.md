@@ -10,4 +10,4 @@ y el modelo inicial (5 capas y 5 neuronas por capa).
  
 ## Correcciones
 
-Algunas de las correcciones realizadas con respecto a la primera entrega son que se realizó la matriz de confusión, se seleccionó como modelo refinado una red neuronal de 25 capas ocultas y 25 neuronas por capa, como modelo inicial 5 capas y 5 neuronas por capa. Se usaron subconjuntos de entrenamiento, validación y prueba. Se corren predicciones del subconjunto de prueba. Se añaden mapas de calor (tablas en anexos) para visualización de puntajes en vez de gráficas de línea y matrices.
+Algunas de las correcciones realizadas con respecto a la primera entrega son que se realizó la matriz de confusión, se seleccionó como modelo refinado una red neuronal de 25 capas ocultas y 25 neuronas por capa, como modelo inicial 5 capas y 5 neuronas por capa. Se usaron subconjuntos de entrenamiento, validación y prueba. Se corren predicciones del subconjunto de prueba. Se añaden mapas de calor (tablas en anexos) para visualización de puntajes en vez de gráficas de línea y matrices. Se añade tabla comparativa de puntajes de modelo inicial contra modelo refinado.
