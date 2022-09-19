@@ -3,7 +3,7 @@ Javier de Golferichs García A01139500
 
 El reporte es el archivo reporte_de_desempeno.pdf
 
-El código usado está en el [Portafolio de implementacion (oprima aqui para ir)](https://github.com/1dgog/tc3006c_m2_portafoliodeimplementacion), el que se llama m2_con_framework.ipynb
+El código usado está en el [Portafolio de implementacion (oprima aqui para ir)](https://github.com/1dgog/tc3006c_m2_portafoliodeimplementacion), el que se llama [m2_con_framework.ipynb](https://github.com/1dgog/tc3006c_m2_portafoliodeimplementacion/blob/b47cbeb8ba349b2356376d3651a8c534d482707c/m2_con_framework.ipynb)
 
 El reporte presenta el método para obtener los puntajes y matriz de confusión de las iteraciones, los puntajes obtenidos en mapa de calor, el análisis de sesgo, varianza y ajuste, la técnica de regularización y la comparación entre el modelo refinado (25 capas y 25 neuronas por capa)
 y el modelo inicial (5 capas y 5 neuronas por capa).
