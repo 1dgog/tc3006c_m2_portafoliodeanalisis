@@ -1,7 +1,7 @@
 # Portafolio de análisis de Módulo 2
 Javier de Golferichs García A01139500
 
-El reporte es el archivo reporte]_de_desempeno.pdf
+El reporte es el archivo reporte_de_desempeno.pdf
 
 El código utilizados estan en el [Portafolio de implementacion (oprima aqui para ir)](https://github.com/1dgog/tc3006c_m2_portafoliodeimplementacion), el que se llama m2_con_framework.ipynb
 
